@@ -1,0 +1,24 @@
+h1{
+    color: cadetblue;
+}
+
+p{
+    color: brown;
+}
+
+.header{
+    background-color: crimson;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
